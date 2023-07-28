@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+언어 및 도구
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+
 <!--
 **hwayoung37/hwayoung37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
