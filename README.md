@@ -1,6 +1,6 @@
 ### 반갑습니다.  👋
 
-1년차 FE 개발자 강화영입니다. <a href="https://kanghwayoung.notion.site/039706c4ca99497c9a41e278660dcc43?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://kanghwayoung.notion.site/039706c4ca99497c9a41e278660dcc43?pvs=4"/></a> 
+1년차 FE 개발자 강화영입니다.
 <br>
 <br>
 
